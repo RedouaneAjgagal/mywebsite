@@ -27,6 +27,9 @@ a {
     color: #94167d;
     font-family: 'Merriweather', serif;
 }
+a:hover{
+    color: #dd89cc;
+}
 p{
     color: #222222;
 }
@@ -88,6 +91,7 @@ hr{
     line-height: 2;
     width: 30%;
     margin: 0 auto;
+    padding-bottom: 30px;
 }
 .contact-me-button{
     padding: 10px;
